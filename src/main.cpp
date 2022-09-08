@@ -20,7 +20,11 @@ int main(int argc, char* argv[]) {
   if (argv == nullptr) {
     return **argv; // intentional nullptr dereference
   }
-
+  
+  cout<< "Hello World";
+  
+  cout<< "Hello World";
+  
   return 0;
 }
 
